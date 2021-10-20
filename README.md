@@ -1,3 +1,8 @@
+# Repo Has Moved
+
+This repo has moved to https://github.com/kronicle-tech/kronicle
+
+
 # Component Catalog
 
 The Component Catalog is a web-based dashboard that displays a list of the components in a technology stack and shows various 
